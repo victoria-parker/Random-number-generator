@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: linear-gradient(35deg,#56c596,#cff4d2);
+    background-attachment: fixed;
+    font-family: Calibri;
+}
+
+#amount,#sides{
+    border-radius: .25rem;
+    padding: .25rem;
+    margin: .5rem;
+    border: none;
+}
+#btn{
+    margin: .5rem;
+    padding:.5rem;
+    border: 1px solid #7be495;
+    border-radius: .25rem;
+    font-family: Calibri;
+    font-weight: bold;
+}
