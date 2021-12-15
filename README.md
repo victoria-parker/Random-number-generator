@@ -9,5 +9,5 @@ Find the project requirements here: [Random number generator web app](https://ww
 Built with PHP, CSS and JS
 
 ## Screenshots and demo
-will be added soon
+https://random-number-generator-web.herokuapp.com/
 
