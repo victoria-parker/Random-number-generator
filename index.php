@@ -15,12 +15,12 @@
 
         <div id="amountSelector">
             <label for="amount">How many dices do you want to roll?</label><br>
-            <input type="number" name="amount" id="amount" min="1">
+            <input type="number" name="amount" id="amount" min="1" required>
         </div>
         <br>
 
         <label for="sides">Select how many sides the dice(s) has/have</label><br>
-        <select name="sides" id="sides">
+        <select name="sides" id="sides" required>
             <option value="">Select a side</option>
             <option value="4">D4</option>
             <option value="6">D6</option>
